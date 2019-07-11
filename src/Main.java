@@ -9,6 +9,7 @@ public class Main {
             {
                 System.out.println(mat[i][j]);
                 System.out.println("gittest");
+                System.out.println("git second test");
             }
 
         }
