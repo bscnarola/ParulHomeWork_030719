@@ -8,6 +8,7 @@ public class Main {
             for(int j = 0; j<mat[i].length; j++)
             {
                 System.out.println(mat[i][j]);
+                System.out.println("gittest");
             }
 
         }
