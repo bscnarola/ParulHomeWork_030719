@@ -8,7 +8,7 @@ public class Main {
             for(int j = 0; j<mat[i].length; j++)
             {
                 System.out.println(mat[i][j]);
-                System.out.println("soursdfsdfcr tree test");
+                System.out.println("scr tree test");
 
             }
 
