@@ -9,6 +9,7 @@ public class Main {
             {
                 System.out.println(mat[i][j]);
                 System.out.println("scr tree test");
+                System.out.println("testing git bash");
 
             }
 
